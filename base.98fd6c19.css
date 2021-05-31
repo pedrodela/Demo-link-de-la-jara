@@ -11,7 +11,7 @@
 body {
 	margin: 0;
 	--color-text: #fff;
-	--color-bg: #c2c6c9;
+	--color-bg: #060707;
 	--color-link: #000;
 	--color-link-hover: #000;
 	--color-menu: #000;
@@ -27,7 +27,7 @@ body {
 
 .demo-2 {
 	--color-text: #fff;
-	--color-bg: #000;
+	--color-bg: rgb(0, 0, 0);
 	--color-link: #ddd;
 	--color-link-hover: #fff;
 	--color-menu: #fff;
