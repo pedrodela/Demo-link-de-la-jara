@@ -11,10 +11,10 @@
 body {
 	margin: 0;
 	--color-text: #fff;
-	--color-bg: #c2c6c9;
-	--color-link: #000;
+	--color-bg: #000000;
+	--color-link: rgb(224, 217, 217);
 	--color-link-hover: #000;
-	--color-menu: #000;
+	--color-menu: rgb(37, 167, 48);
 	--fontsize-menu: 10px;
 	--font-menu: titling-gothic-fb, sans-serif;
 	color: var(--color-text);
